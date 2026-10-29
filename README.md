@@ -1,16 +1,86 @@
-## Hi there 👋
+# yuese · yanwaiyue-name
 
-<!--
-**yanwaiyue-name/yanwaiyue-name** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 做三件小事：把复杂的东西讲简单，把散落的信息整理干净，把能自动化的部分自动化。
 
-Here are some ideas to get you started:
+我维护几个互相独立的开源小项目，都是自己用着顺手才做出来的，没有一个是"练手项目"。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📦 项目一览
+
+### 🐣 [小白成为计算机大佬](https://github.com/yanwaiyue-name/xiaobai-to-dalao)
+**写给纯小白的计算机入门教程：科学上网 + 软件环境部署**
+
+网上的教程总默认你"已经会了"，这个仓库默认你"什么都不会"。每章只回答三个问题：装什么、怎么装、怎么确认装好了。
+
+覆盖 Git / Python / Node.js / Java / VS Code / Docker / MySQL，Windows 优先。
+
+```
+适合：完全零基础、被环境配置卡住过的人
+特点：每步都有验证方法，每章都有"常见坑"对照表
+```
+
+▶ [在线阅读](https://yanwaiyue-name.github.io/xiaobai-to-dalao/)
+
+---
+
+### 📦 [AI 客户端下载中心](https://github.com/yanwaiyue-name/agent-download)
+**47 款 AI 工具官方地址 + 按架构自动选版本 + 本地资源中心**
+
+国内下 AI 客户端常卡在三件事：找不到官方地址、不知道下 x64 还是 ARM64、下不动。这个项目把这三点都解决了，并且**下载后强制校验官方 SHA256**（对不上就删文件换源，不会装到你机器上）。
+
+带图形界面、命令行安装器、离线清单页，链接每周自动体检。
+
+```
+适合：要装 Claude / ChatGPT / Cursor / Ollama 等工具的人
+特点：自动识别架构；官方哈希校验；国内网络友好
+```
+
+▶ [在线清单](https://yanwaiyue-name.github.io/agent-download/)
+
+---
+
+### 🎓 [学生版 · 高性价比人生指南](https://github.com/yanwaiyue-name/students-howtolivebetter)
+**写给 18–25 岁：每条都写明成本、收益、证据等级和官方出处**
+
+不讲"你要努力"，只把每件事的成本和收益列清楚，让你自己算。涉及专升本、三方协议、档案、校园贷、实习求职、劳动合同、心理求助。
+
+每条标注证据等级 A（官方原文）/ B（统计）/ C（经验），以及"这个选择做错了能不能退回来"。
+
+```
+适合：在读的、快毕业的、刚毕业三年内的
+特点：能查到的才写，查不到的说不清楚；法医类章节带专业分流提示
+```
+
+▶ [在线阅读](https://yanwaiyue-name.github.io/students-howtolivebetter/) · 支持 PDF / EPUB / Markdown 下载
+
+---
+
+### 🧭 [机场导航](https://github.com/yanwaiyue-name/airport-nav)
+**入口索引 + 每周自动体检，只记录"能不能打开"，不推荐"好不好用"**
+
+低价机场最大的问题是域名老换、跑路没人说。这个项目每周六自动跑一遍所有入口，双振出局判死，还会记录入口跳到了哪个域名（防换牌/转卖）。
+
+状态分四档：✅正常 / ⚠️受限（403 防护页）/ ❓未验证 / ❌失效——**403 不会被算成"存活"**。
+
+```
+适合：想找某个机场现在的官网入口
+特点：全自动体检；跳转域名提示；明确不构成推荐或安全背书
+```
+
+▶ [在线导航](https://yanwaiyue-name.github.io/airport-nav/)
+
+---
+
+## 🔧 这些项目的共同点
+
+| | |
+|---|---|
+| **能自动化的都自动化** | 链接体检、版本检测、站点构建、内容发布，全部 GitHub Actions |
+| **不编数据** | 查不到就写"查不到"，没统计就不写百分比 |
+| **如实标注缺口** | 没覆盖到的部分明说没覆盖，不用"基本完整"糊过去 |
+| **可验证** | 每个结论都能点回官方原文，每个下载都能对上哈希 |
+
+---
+
+<p align="center"><sub>如果哪个项目帮到你了，点个 ⭐ 就是最好的支持。</sub></p>
