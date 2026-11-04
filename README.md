@@ -40,6 +40,48 @@
 
 ---
 
+### 🤖 [AI Agent 工坊 · 中文资源导航](https://github.com/yanwaiyue-name/ai-agent-hub-zh)
+**编码代理 / 破甲 Harness / Skills 库 / 免费额度网关的中文索引**
+
+每个项目标官方地址、国内直连友好度、一键部署命令，并每周自动体检链接、同步上游 star 与归档状态。
+
+```
+适合：想找中文语境下真正在用的 Agent 工具的人
+特点：31 条资源；链接体检；PR 校验
+```
+
+▶ [在线查](https://yanwaiyue-name.github.io/ai-agent-hub-zh/)
+
+---
+
+### 💰 [中文 AI 副业实战导航](https://github.com/yanwaiyue-name/ai-sidehustle-zh)
+**20 条可执行的 AI 副业路子，每条标成本、收益、证据等级和出处**
+
+不喊「月入十万」，把启动成本、时间投入、收益口径和风险写清楚；所有条目明确标注证据等级，C 级不装成 A 级。
+
+```
+适合：想用 AI 赚第一笔外快、又不想被卖课的人
+特点：20 条全 C 级证据；成本 / 收益 / 风险逐条拆
+```
+
+▶ [在线读](https://yanwaiyue-name.github.io/ai-sidehustle-zh/)
+
+---
+
+### 🧰 [中文 AI 玩家从 0 到 1 · 启动套件](https://github.com/yanwaiyue-name/ai-starter-kit-zh)
+**一个入口，按顺序串起环境、网络、工具、Agent、副业、算大账**
+
+六步路线把上面这些仓库串成一条路径；附一键 clone 脚本，Windows / macOS / Linux 都能用。
+
+```
+适合：刚接触 AI、不知道先装什么的人
+特点：6 步路线；一键拉取；只做索引
+```
+
+▶ [在线看路线](https://yanwaiyue-name.github.io/ai-starter-kit-zh/)
+
+---
+
 ### 🎓 [学生版 · 高性价比人生指南](https://github.com/yanwaiyue-name/students-howtolivebetter)
 **写给 18–25 岁：每条都写明成本、收益、证据等级和官方出处**
 
@@ -49,7 +91,7 @@
 
 ```
 适合：在读的、快毕业的、刚毕业三年内的
-特点：能查到的才写，查不到的说不清楚；法医类章节带专业分流提示
+特点：能查到的才写，查不到的说不确定；法律、医疗类章节带专业求助渠道
 ```
 
 ▶ [在线阅读](https://yanwaiyue-name.github.io/students-howtolivebetter/) · 支持 PDF / EPUB / Markdown 下载
