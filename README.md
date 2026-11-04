@@ -2,6 +2,8 @@
 
 > 做三件小事：把复杂的东西讲简单，把散落的信息整理干净，把能自动化的部分自动化。
 
+**项目总入口**：[yanwaiyue-name.github.io/yuese-nav](https://yanwaiyue-name.github.io/yuese-nav/)
+
 我维护几个互相独立的开源小项目，都是自己用着顺手才做出来的，没有一个是"练手项目"。
 
 ---
